@@ -7,10 +7,11 @@
 
 ### 내부의 ML 파트는 모바일 어플리케이션인 것을 감안하여 MobileNetV3 를 사용하여 분류를 실행
 
-#### 레포지토리 안의 mobilenet2.py가 메인임
+
 
 
 # 설계과정
+#### 레포지토리 안의 mobilenet2.py가 메인임
 
 ### 1. 데이터 준비하기
 https://www.kaggle.com/jinfree/recycle-classification-dataset
