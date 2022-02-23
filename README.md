@@ -1,7 +1,7 @@
 ﻿# MobileNetV3를 사용한 분리수거 분류 어플
  
  
- ## 어플리케이션 프론트 엔드 부분은 Flutter 팀에서 제작함
+### 어플리케이션 프론트 엔드 부분은 Flutter 팀에서 제작함
 ![2022-02-23 17 28 42](https://user-images.githubusercontent.com/87767242/155284095-6b1abd8e-9dbe-45e4-aa08-52918e1b1da6.png)
 
 
