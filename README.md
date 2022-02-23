@@ -139,3 +139,12 @@ history = model.fit(train_dataset,
                     validation_data=validation_dataset,
                     callbacks=callbacks)
 ```
+
+# 결과
+![2022-02-23 17 50 31](https://user-images.githubusercontent.com/87767242/155286945-bae18b39-75e3-4003-b233-77fdfea3c476.png)
+#### [Train] loss : 0.0142 , acc : 0.9962 - [Validation] loss : 0.1677 , acc : 0.9618
+
+![2022-02-23 17 51 00](https://user-images.githubusercontent.com/87767242/155286990-1a58e4b9-bebe-471e-b576-674e26ed5a30.png)
+#### 문제 없이 잘 분류하고 있는 것을 알 수 있다!
+
+
